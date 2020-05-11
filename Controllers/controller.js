@@ -13,7 +13,6 @@ module.exports = async (request, h) => {
         notes: result
       },
       page: "Home — Notes Board",
-      description: "Welcome to my Notes Board"
     };
   };
   
